@@ -13,13 +13,6 @@
 #     }
 #   }
 # }
-
-kingdom {
-  phylum {
-    class {}
-  }
-}
-
 #
 # PORTION_2 = {
 #   label: "Order"
